@@ -55,6 +55,12 @@ const SERVICES = [
         color: "#444441", colorBg: "#F1EFE8",
         badge: "GitHub Pages", badgeBg: "#F1EFE8", badgeColor: "#444441"
       },
+      {
+        name: "Le Wagon Cinema",
+        url: "https://lewagon-cinema.yannklein.dev",
+        description: "Rails 6 app",
+        badge: "Coolify"
+      }
     ]
   },
   {
