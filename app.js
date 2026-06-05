@@ -57,9 +57,11 @@ const SERVICES = [
       },
       {
         name: "Le Wagon Cinema",
+        desc: "Rails 6 cinema app",
         url: "https://lewagon-cinema.yannklein.dev",
-        description: "Rails 6 app",
-        badge: "Coolify"
+        icon: "ti-camera",
+        color: "#3f3c3c", colorBg: "#ffd8e2",
+        badge: "Coolify", badgeBg: "#EAF3DE", badgeColor: "#27500A"
       }
     ]
   },
