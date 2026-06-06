@@ -84,6 +84,14 @@ const SERVICES = [
         color: "#993C1D", colorBg: "#FAECE7",
         badge: "nginx", badgeBg: "#F1EFE8", badgeColor: "#444441"
       },
+      {
+        name: "Satellite gallery",
+        desc: "METEOR-M2 weather images",
+        url: "https://satellite.yannklein.dev",
+        icon: "ti-satellite",
+        color: "#0F6E56", colorBg: "#E1F5EE",
+        badge: "nginx", badgeBg: "#F1EFE8", badgeColor: "#444441"
+      },
     ]
   },
 ];
