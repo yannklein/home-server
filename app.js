@@ -62,6 +62,12 @@ const SERVICES = [
         icon: "ti-camera",
         color: "#3f3c3c", colorBg: "#ffd8e2",
         badge: "Coolify", badgeBg: "#EAF3DE", badgeColor: "#27500A"
+      },
+      { 
+        name: "Théding Cam", 
+        url: "https://theding-cam.yannklein.dev", 
+        port: 8090, 
+        description: "Sidelab webcam live stream" 
       }
     ]
   },
